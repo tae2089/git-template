@@ -1,2 +1,4 @@
-# git-template
-github 생성 템플릿 - git issue, PR 템플릿 생성되었습니다
+## [PROJECT] 프로젝트명
+### 프로젝트 관련 설명
+### 사용방법
+### 프로젝트 사용된 기술 스택
