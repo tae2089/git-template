@@ -1,6 +1,6 @@
 ---
 name: 서버 전용 버그 리포트
-about: "해당 프로젝트의 현 기능의 문제점 해결"
+about: 해당 프로젝트의 현 기능의 문제점 해결
 title: "[BUG]"
 labels: bug
 assignees: tae2089
