@@ -1,7 +1,27 @@
-## 개요
-## 작업사항
-## 변경로직
-### 변경전
-### 변경후
-## 사용방법
-## 기타
+## DESCRIPTION
+
+## MERGE INFO
+
+### ISSUE NUMBER(JIRA OR GIT)
+
+### TARGET
+- [ ] dev
+- [ ] master(release)
+
+### TYPE
+- [ ] FEATURE
+- [ ] BUG
+- [ ] CI/CD
+- [ ] DOC
+
+## PROBLEM INFO
+
+### PROBLEM
+
+### SOLUTIONS
+
+### BEFORE CODE
+
+### AFTER CODE
+
+### ETC
